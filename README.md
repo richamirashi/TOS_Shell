@@ -1,6 +1,6 @@
 # TOS_Shell
 
-Implemented a **TOS** (Training Operating System, an educational operating system running on the PC Emulator [Bochs](bochs.sourceforge.net)) **Shell** that understands the following commands:
+Implemented a **TOS** (Training Operating System, an educational operating system running on the [Bochs](http://bochs.sourceforge.net) PC Emulator) **Shell** that understands the following commands:
 - **help**:       prints a text explaining all supported TOS commands.
 - **cls**:        clears the screen/window.
 - **shell**:      launches another shell.
